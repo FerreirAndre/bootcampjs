@@ -1,3 +1,15 @@
+body{
+    height: 95vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+h1{
+    text-transform: uppercase;
+    font-family: Helvetica;
+}
 #snake{
     border: 2px solid black;
     align-self: center;
